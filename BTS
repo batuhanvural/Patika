@@ -1,0 +1,30 @@
+------------- BTS ------------
+
+Dizi: [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+Root 7'dir.
+Root'un sağına 8 eklenir.
+Root'un soluna 5 eklenir.
+5'in soluna 1 eklenir.
+5'in sağına 6 eklenir.
+1'in soluna 0 eklenir.
+8'in sağına 9 eklenir.
+9'un soluna 4 eklenir.
+4'ün soluna 2 eklenir.
+Bu adımları yazarsak:
+
+Root 7'dir.
+Root'un sağından 8 bulunur.
+Root'un solundan 5 bulunur.
+5'in solundan 1 bulunur.
+5'in sağından 6 bulunur.
+1'in solundan 0 bulunur.
+8'in sağından 9 bulunur.
+9'un solundan 4 bulunur.
+4'ün solundan 2 bulunur.
+Bu adımlar, verilen dizinin BST'ye dönüştürülme aşamalarını göstermektedir.
+
+
+
+
+
